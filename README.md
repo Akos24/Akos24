@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Akos24
+- 👀 I’m interested in coding, algorithms, and web developement
+- 🌱 I’m currently learning React.js, and Backend Web developement
+- 💞️ I’m looking to collaborate on Beginner friendly starter projects, since it's my first year learning to code
+- 📫 How to reach me: You can reach me via LinkedIn: https://www.linkedin.com/in/%C3%A1kos-ir%C3%B3-016b4a293/
